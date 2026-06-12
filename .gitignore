@@ -1,0 +1,65 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# =========================
+# FRONTEND (React / Vite)
+# =========================
+node_modules/
+/frontend/node_modules/
+dist/
+dist-ssr/
+build/
+out/
+.npm/
+.yarn/
+.eslintcache
+.vite/
+
+# =========================
+# BACKEND (Python / FastAPI)
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+/backend/venv/
+/backend/env/
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local data & indexes (FAISS / SQLite)
+*.sqlite3
+*.db
+*.index
+/backend/data/*.index
+/backend/data/*.pkl
+/backend/uploads/*
+
+# Logs
+*.log

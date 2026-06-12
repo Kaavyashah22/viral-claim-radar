@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "text": "The moon landing in 1969 was a real event, documented extensively by NASA, with physical evidence including moon rocks brought back to Earth.",
+    "source": "NASA History"
+  },
+  {
+    "id": "2",
+    "text": "Extensive medical research has consistently shown that there is no link between vaccines and autism.",
+    "source": "CDC"
+  },
+  {
+    "id": "3",
+    "text": "The Earth is roughly spherical (an oblate spheroid), a fact confirmed by centuries of scientific observation and images from space.",
+    "source": "Scientific Consensus"
+  },
+  {
+    "id": "4",
+    "text": "Gargling with warm water and salt or drinking hot water does not prevent, treat, or cure COVID-19 or any other coronavirus.",
+    "source": "WHO Information"
+  },
+  {
+    "id": "5",
+    "text": "There is no scientific evidence of cities, artificial structures, or advanced civilizations on Mars. NASA rovers have only explored barren geological landscapes.",
+    "source": "NASA Fact Check"
+  },
+  {
+    "id": "6",
+    "text": "Dell Technologies officially released a sustainability report stating their goal to recycle 1 billion tech products globally and achieve zero greenhouse gas emissions by 2030.",
+    "source": "Dell ESG Report"
+  },
+  {
+    "id": "7",
+    "text": "Consuming alkaline water does not change the pH level of human blood, which is strictly regulated by the lungs and kidneys.",
+    "source": "Mayo Clinic"
+  },
+  {
+    "id": "8",
+    "text": "There is no scientific evidence that mobile phone 5G signals interfere with human immune systems or spread viruses.",
+    "source": "WHO"
+  },
+  {
+    "id": "9",
+    "text": "The Indian economy became the world's 5th largest economy by nominal GDP in 2022, overtaking the UK.",
+    "source": "IMF/World Bank"
+  },
+  {
+    "id": "10",
+    "text": "Generative AI models like Gemini can experience hallucinations, where they generate confident but factually incorrect information.",
+    "source": "Google AI Research"
+  },
+  {
+    "id": "11",
+    "text": "The James Webb Space Telescope (JWST) is located at the second Lagrange point (L2), approximately 1.5 million km from Earth.",
+    "source": "NASA"
+  },
+  {
+    "id": "12",
+    "text": "Vitamin C can support immune function but does not prevent or cure the common cold once symptoms have started.",
+    "source": "NIH"
+  },
+  {
+    "id": "13",
+    "text": "Pluto was reclassified as a dwarf planet by the IAU in 2006 because it has not cleared the neighborhood around its orbit.",
+    "source": "IAU"
+  },
+  {
+    "id": "14",
+    "text": "End-to-end encryption ensures that only the sender and receiver can read messages; service providers cannot access the content.",
+    "source": "Cybersecurity Consensus"
+  },
+  {
+    "id": "15",
+    "text": "The Great Wall of China is not visible to the naked eye from the moon, though it can be seen from low Earth orbit.",
+    "source": "NASA"
+  },
+  {
+    "id": "16",
+    "text": "Electric vehicles (EVs) generally have a lower lifetime carbon footprint than internal combustion engine vehicles, even accounting for battery production.",
+    "source": "EPA"
+  },
+  {
+    "id": "17",
+    "text": "The Unified Payments Interface (UPI) is a real-time payment system developed in India that facilitates instantaneous inter-bank peer-to-peer and person-to-merchant transactions.",
+    "source": "NPCI"
+  },
+  {
+    "id": "18",
+    "text": "Chandrayaan-3 successfully soft-landed on the Moon's south pole in August 2023, making India the first country to achieve this feat.",
+    "source": "ISRO"
+  },
+  {
+    "id": "19",
+    "text": "Human fingerprints are uniquely shaped by environmental factors in the womb, meaning even identical twins have completely different fingerprints.",
+    "source": "Forensic Science"
+  },
+  {
+    "id": "20",
+    "text": "Eating carrots can support overall eye health, but it does not magically give humans enhanced night vision.",
+    "source": "Ophthalmology Consensus"
+  },
+  {
+    "id": "21",
+    "text": "Antibiotics are only effective against bacterial infections and have zero impact on illnesses caused by viruses, such as the flu or COVID-19.",
+    "source": "CDC"
+  },
+  {
+    "id": "22",
+    "text": "The Moon is tidally locked to Earth, meaning we always see the same side. However, the 'dark side' is a myth, as all sides receive equal sunlight over a lunar month.",
+    "source": "Astrophysics"
+  },
+  {
+    "id": "23",
+    "text": "A single Bitcoin transaction can consume thousands of times more energy than a standard credit card transaction, primarily due to the Proof-of-Work consensus mechanism.",
+    "source": "Bitcoin Electricity Consumption Index"
+  },
+  {
+    "id": "24",
+    "text": "Placing a wet smartphone in a bag of uncooked rice is less effective for drying it out than simply leaving it in an open area with good airflow.",
+    "source": "Electronics Repair Consensus"
+  },
+  {
+    "id": "25",
+    "text": "Sharks do not lack the ability to get cancer; marine biologists have documented tumors and cancers in several species of sharks.",
+    "source": "Marine Biology Institute"
+  },
+  {
+    "id": "26",
+    "text": "Goldfish have a memory span of several months, not three seconds, and can be trained to recognize shapes, colors, and sounds.",
+    "source": "Animal Behavior Science"
+  }
+]
