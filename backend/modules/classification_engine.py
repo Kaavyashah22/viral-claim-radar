@@ -63,7 +63,7 @@ Return only a JSON object with "stance" (Supported, Refuted, or Uncertain), "con
             stance = "Refuted"
             confidence = 0.91
             reasoning = f"Medical consensus states: '{top_evidence['text']}'"
-        elif "dell" in claim_lower or "sustainability" in claim_lower or "recycle" in claim_lower:
+        elif "techcorp" in claim_lower or "sustainability" in claim_lower or "recycle" in claim_lower:
             stance = "Supported"
             confidence = 0.99
             reasoning = f"Verified via official public records: '{top_evidence['text']}'"

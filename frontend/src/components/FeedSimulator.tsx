@@ -23,10 +23,10 @@ const MOCK_POSTS = [
   },
   {
     id: 3,
-    author: 'Dell Tech',
-    handle: '@DellTech',
+    author: 'TechCorp',
+    handle: '@TechCorp',
     avatar: 'https://i.pravatar.cc/150?img=8',
-    content: "Dell Technologies releases its latest sustainability report, aiming to recycle 1 billion tech products by 2030. 🌱💻",
+    content: "TechCorp releases its latest sustainability report, aiming to recycle 1 billion tech products by 2030. 🌱💻",
     time: "5h",
   }
 ];

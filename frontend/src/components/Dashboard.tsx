@@ -224,7 +224,7 @@ export default function Dashboard() {
 
         {/* Footer */}
         <motion.div layout className="pt-20 pb-8 text-center text-gray-400 dark:text-gray-600 font-medium text-sm">
-          Built for GDG x DELL Ideathon
+          Viral Claim Radar Copilot
         </motion.div>
       </div>
     </div>

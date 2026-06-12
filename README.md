@@ -2,7 +2,6 @@
 
 <div align="center">
   <h3>An advanced, high-speed fact-checking copilot designed to combat misinformation across social media.</h3>
-  <p><b>Built for the GDG x DELL Ideathon</b></p>
 </div>
 
 ---
@@ -73,7 +72,7 @@ npm run dev
 Open the **Live Feed Simulator** Tab to safely test mock network claims in real-time:
 - **Hindi Claim**: *"नमक के पानी से गरारे करने से कोरोना ठीक हो जाता है"* -> Translates instantly and flags as **Refuted**.
 - **Mars Claim**: *"NASA just found a city on Mars!"* -> Flags as **Refuted** + Highlights alarming Visual Metadata.
-- **Dell Sustainability**: *"Dell Technologies releases its latest sustainability report..."* -> Flags as **Supported** triggering the Success Confetti Animation 🎉.
+- **TechCorp Sustainability**: *"TechCorp releases its latest sustainability report..."* -> Flags as **Supported** triggering the Success Confetti Animation 🎉.
 
 <br />
 
